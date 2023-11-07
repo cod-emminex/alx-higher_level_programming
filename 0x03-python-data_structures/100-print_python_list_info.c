@@ -1,4 +1,4 @@
-#include <Python.h>
+#include </usr/include/python3.10/Python.h>
 #include <stdio.h>
 #include <listobject.h>
 #include "lists.h"
